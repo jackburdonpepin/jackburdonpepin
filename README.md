@@ -1,4 +1,6 @@
-## Hi there 👋
+I'm currently an undergrad mathematics student at Queen Mary university. 
+
+This github profile contains repositories for personal projects and university coursework.
 
 <!--
 **jackburdonpepin/jackburdonpepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
